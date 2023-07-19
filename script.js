@@ -15,9 +15,9 @@ document.querySelectorAll(".question").forEach((question) => question.addEventLi
 document.addEventListener("click", (event) => {
   const questionsAnswerAccordian = document.querySelectorAll(".question");
 
-  if (!event.target.closest(".question")) {
+  if(!event.target.closest(".question")) {
   questionsAnswerAccordian.forEach((question) => {
-    if (question.parentNode.classList.contains("active")) {
+    if(question.parentNode.classList.contains("active")) {
       question.parentNode.classList.remove("active");
       }
     });

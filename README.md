@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Source Code URL: [Add solution URL here](https://github.com/jonahunuafe/faq-accordion-card-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Source code URL](https://github.com/jonahunuafe/faq-accordion-card-main)
+- [Live site URL]( https://jonahunuafe.github.io/faq-accordion-card-main/)
 
 ## My process
 

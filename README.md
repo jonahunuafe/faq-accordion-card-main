@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - [Source code URL](https://github.com/jonahunuafe/faq-accordion-card-main)
-- [Live site URL]( https://jonahunuafe.github.io/faq-accordion-card-main/)
+- [Live site URL](https://jonahunuafe.github.io/faq-accordion-card-main/)
 
 ## My process
 
@@ -48,6 +48,6 @@ I would want to learn more about JavaScript using querySelectors, third-party st
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Jonah Unuafe](https://jonahunuafe.github.io/faq-accordion-card-main/)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)

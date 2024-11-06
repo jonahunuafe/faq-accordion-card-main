@@ -50,4 +50,4 @@ I would want to learn more about JavaScript using querySelectors, third-party st
 
 - Website - [Jonah Unuafe](https://jonahunuafe.github.io/faq-accordion-card-main/)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Twitter - [@jonahunuafe](https://www.twitter.com/yourusername)
